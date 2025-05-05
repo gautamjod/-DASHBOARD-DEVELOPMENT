@@ -87,3 +87,13 @@ Strategic Planning: Helps OLA’s management align supply with demand, manage dr
 
 Conclusion:
 This project demonstrates how Power BI can be leveraged to build a scalable and insightful business intelligence solution for the transportation industry. The dashboard not only provides clarity into current performance but also supports predictive and prescriptive analytics for continuous improvement. It serves as a practical example of how data visualization can transform raw data into actionable intelligence for enterprise-level decision-making.
+
+
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/232aadde-8402-4716-b507-2c490e4362e4)
+
+![Image](https://github.com/user-attachments/assets/6feaa2ff-3ef5-4367-8d7c-e0169e9dc71f)
+
+![Image](https://github.com/user-attachments/assets/8097a62e-021e-4a85-85c8-213af3126d7e)
+
+![Image](https://github.com/user-attachments/assets/d640a010-889e-439e-adf9-eedded250918)
